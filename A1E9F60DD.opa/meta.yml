@@ -1,0 +1,19 @@
+id: A1E9F60DD
+title: Wayfaring Offering
+type: translation
+pechas:
+- I71CCD71F
+- I8408BB05
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:10:05.026820
+  last_modified_at: 2023-01-04 12:10:05.026825
+  collections:
+  - Jamyang Khyentse Chökyi Lodrö Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I71CCD71F/5C88: C653
+  I8408BB05/2707: C653
